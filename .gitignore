@@ -7,7 +7,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Build outputs
-public/css/
 dist/
 build/
 *.min.css
@@ -75,7 +74,6 @@ temp/
 
 # Gatsby files
 .cache/
-public
 
 # Storybook build outputs
 .out
