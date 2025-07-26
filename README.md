@@ -1,6 +1,6 @@
-# Tailwind CSS 响应式导航示例
+# Tailwind CSS 示例
 
-这是一个使用 **Tailwind CSS v4** 构建的响应式导航栏示例项目，展示了现代前端开发的最佳实践。
+这是一个使用 **Tailwind CSS v4** 构建的示例项目。
 
 参考入门教程：
 [TailwindCSS 入门指南：从安装到实战的实用主义CSS方案](https://www.jeay.net/front/tailwind.html)
@@ -23,9 +23,8 @@
 ## 📦 项目结构
 
 ```
-mobile/
 ├── src/
-│   └── common.css          # 主样式文件（Tailwind配置）
+│   └── common.css          # 主样式文件
 ├── public/
 │   ├── index.html          # 主页面
 │   └── css/               # 构建后的CSS文件
@@ -143,9 +142,11 @@ pnpm watch
 
 ## 📚 学习资源
 
-- [Tailwind CSS 官方文档](https://tailwindcss.com/docs)
-- [项目详细文档](./tailwind.md)
-- [响应式设计指南](./tailwind.md#实战示例)
+- [官方文档](https://tailwindcss.com/docs)：最权威的学习资料
+- [Tailwind Play](https://play.tailwindcss.com)：在线交互式学习平台
+- [Tailwind UI](https://tailwindui.com)：官方UI组件库（付费）
+- [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)：精选资源集合
+
 
 ## 🤝 贡献指南
 
@@ -162,6 +163,5 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 遇到问题？请查看：
 
-- [项目文档](./tailwind.md)
 - [Tailwind CSS 中文文档](https://www.tailwindcss.cn)
-- 提交 [Issue](../../issues)
+- 提交 [Issue](https://github.com/jeeaay/tailwindcss4-init/issues)
